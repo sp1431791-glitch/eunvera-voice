@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pydantic
+requests
+# Optional free add-ons (server-side voice providers):
+# edge-tts          # free neural TTS for server-side audio
+# faster-whisper    # free local STT (needs more RAM)
